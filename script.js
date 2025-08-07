@@ -69,7 +69,7 @@ input.addEventListener('input',()=>{
  
 shownCards(profiles) 
 
-// end
+
 //end
 
 
